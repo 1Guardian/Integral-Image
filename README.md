@@ -9,4 +9,3 @@ This project is quite simple: it just computes the integral image, and then thre
 python ii.py -h -t -i imagefile
         -i : image file that you want to work on
         -t : whether or not to generate a thresholded image (8 levels)
-            
